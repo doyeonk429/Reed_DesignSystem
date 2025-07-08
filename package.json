@@ -1,5 +1,10 @@
 {
+  "name": "Reed_DesignSystem",
+  "version": "1.0.0",
   "devDependencies": {
     "style-dictionary": "^5.0.1"
+  },
+  "scripts": {
+    "build": "node style-dictionary.config.js"
   }
 }
